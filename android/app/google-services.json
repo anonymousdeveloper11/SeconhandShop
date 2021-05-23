@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "627063076596",
+    "project_id": "secondhand-shop-44750",
+    "storage_bucket": "secondhand-shop-44750.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627063076596:android:860730f9dd9fbf803750a1",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627063076596-2iblqkltskl47g13t9gp9l9dai92e6bj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7J0D4637O4H9_iwOb1FRN73oqvkwpH5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627063076596-2iblqkltskl47g13t9gp9l9dai92e6bj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
