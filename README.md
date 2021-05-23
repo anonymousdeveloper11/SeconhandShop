@@ -1,2 +1,2 @@
 # SeconhandShop
-React Native android application
+React Native android application with firebase database.
